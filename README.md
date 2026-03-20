@@ -117,7 +117,7 @@ I love projects that challenge me and help me grow as a developer and problem so
 
 ## 📊 GitHub Stats
 
-![Saniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saniya2701&show_icons=true&count_private=true&theme=radical)
+![Saniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saniya2701&show_icons=true&count_private=true&theme=dark)
 
 ---
 
