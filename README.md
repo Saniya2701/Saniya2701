@@ -1,24 +1,136 @@
-# 💫 About Me:
-Hey I’m Saniya , a dedicated Full-Stack Web Developer with hands-on experience in building responsive and dynamic web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js).<br>I work on both frontend and backend development, delivering clean UI, smooth functionality, and efficient APIs.<br><br>I focus on:<br><br>    - Writing clean, maintainable, and scalable code<br>    - Building intuitive user experiences with modern UI practices<br>    - Developing secure and optimized backend logic<br>    - Continuously learning and improving my technical skills<br><br>Passionate about development, creativity, and problem-solving — and always excited to work on projects that challenge me and help me grow.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanniya.mane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saniyamane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manesaniya0987@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saniya2701&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Saniya2701&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya2701&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saniya2701&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Saniya2701&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# Hi, I'm Saniya Mane 🌻
+Full-Stack Web Developer | MERN Stack | DSA & Data Science Enthusiast
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Saniya2701&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+Hey, I’m Saniya Mane, a dedicated Full-Stack Web Developer passionate about building responsive and dynamic web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js) and exploring Data Science & DSA solutions.  
+
+I focus on:  
+- Writing clean, maintainable, and scalable code  
+- Building intuitive, responsive user experiences  
+- Developing secure and optimized backend systems  
+- Continuously learning and improving my technical skills  
+
+I love projects that challenge me and help me grow as a developer and problem solver.
+
+---
+## 🛠️ Tech Stack
+
+💻 Languages
+- Java
+- JavaScript
+- Python
+- C
+- C++
+
+---
+🌐 Frontend
+- HTML
+- CSS
+- React.js
+- Redux
+- Tailwind CSS
+- Component-driven UI development
+- Responsive layouts
+
+---
+🖥 Backend
+- Node.js
+- Express.js
+- REST API development
+ 
+---
+🗄 Databases
+- MongoDB (NoSQL)
+- MySQL (Relational)
+
+---
+🤖 AI / Data Science
+- NumPy
+- Pandas
+- Matplotlib
+- TensorFlow
+- OpenCV
+
+---
+⚙ CS Fundamentals
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Computer Networks
+- DBMS
+
+---
+🛠 Tools & Platforms
+- Git
+- GitHub
+- Vercel
+- Netlify
+- Render
+- Firebase
+- Apache Tomcat
+- Canva
+- Figma
+- Blender
+- Trello
+- Power BI
+- Linux
+- Windows
+
+---
+
+## 🚀 Projects
+
+### 🔹 SkillNest – Modern EdTech Platform UI
+**Built with React, Redux & Tailwind CSS**  
+[Live Link](https://skill-nest-frontend-eight.vercel.app/) 
+- Developed a clean, interactive UI for online learning  
+- Implemented responsive layouts and component-driven architecture  
+- Enhanced user experience with smooth animations and interactions
+
+--- 
+
+### 🔹 Airbnb Clone
+**Built with React & Node.js**   
+- Full-stack implementation of Airbnb-like booking platform  
+- Integrated search, booking, and authentication functionality
+
+---   
+
+### 🔹 DPI Engine – Deep Packet Inspection System
+**Network Security Tool**  
+- Built a system to analyze packet payloads for security monitoring  
+- Inspected network traffic beyond headers, enabling advanced packet filtering  
+- Useful for network analysis, intrusion detection, and secure traffic monitoring  
+
+👉 More projects on my [GitHub](https://github.com/Saniya2701) & [portfolio](https://personal-portfolio-six-ruddy.vercel.app/).
+
+---
+
+## 🏆 Leadership & Volunteering
+- Founder Head – Hackerrank Campus Crew  
+- LLC Mentor - MLSA DYPCET Chapter  
+- Volunteer – GDG on campus
+
+---
+
+## 📊 GitHub Stats
+
+![Saniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saniya2701&show_icons=true&count_private=true&theme=radical)
+
+---
+
+## 🔥 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Saniya_Mane?theme=dark)
+---
+
+## 🤝 Let's Connect!
+I’m always open to:  
+- Internship opportunities  
+- Collaboration on Full-Stack, MERN, or Data Science projects  
+- Hackathons & innovative ideas  
+
+[GitHub](https://github.com/Saniya2701) | [LinkedIn](https://linkedin.com/in/saniyamane) | [Portfolio](https://personal-portfolio-six-ruddy.vercel.app/) | [LeetCode](https://leetcode.com/Saniya_Mane) | [Email](manesaniya0987@gmail.com)  
+
