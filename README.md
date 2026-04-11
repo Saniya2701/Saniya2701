@@ -118,8 +118,7 @@ I focus on:
 ---
 
 👉 More projects on my GitHub: https://github.com/Saniya2701  
-👉 Portfolio: https://personal-portfolio-six-ruddy.vercel.app  
-
+👉 FullStack Portfolio: https://saniya-fullstack-portfolio.vercel.app/
 ---
 
 ## 🏆 Leadership & Experience
