@@ -145,6 +145,6 @@ I focus on:
 
 GitHub: https://github.com/Saniya2701  
 LinkedIn: https://linkedin.com/in/saniyamane  
-FullStack Portfolio: https://saniya-fullstack-portfolio.vercel.app/
+FullStack Portfolio: https://saniya-fullstack-portfolio.vercel.app
 LeetCode: https://leetcode.com/Saniya_Mane  
 Email: manesaniya0987@gmail.com
