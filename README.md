@@ -1,5 +1,5 @@
 # Hi, I'm Saniya 🌻
-Data Analyst | Full-Stack Developer | MERN Stack | SQL | Power BI
+Data Analyst | Full-Stack Developer | MERN Stack | SQL | Power BI | Java 
 
 ---
 
