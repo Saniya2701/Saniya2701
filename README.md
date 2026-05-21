@@ -105,15 +105,18 @@ I focus on:
 
 ---
 
-#### 🔹 Airbnb Clone
-- Built full-stack booking platform using React & Node.js  
-- Implemented authentication, search & booking system  
+#### 🔹 DevConnect – Professional Networking Platform
+- Built full-stack professional networking platform using MERN Stack  
+- Implemented JWT authentication, profile management, post sharing & connection system  
+- Developed responsive UI, protected routes & REST APIs for scalable user interaction 
 
 ---
 
-#### 🔹 Personal Portfolio Website
-- Designed and developed responsive portfolio  
-- Showcases projects, skills, and contact details  
+#### 🔹Multi Support Triage Agent – AI-Powered Customer Support Automation System
+- Built AI-powered ticket triage system using Python automation & CSV processing  
+- Automated classification and resolution of 93% support tickets (27/29 cases)  
+- Implemented confidence-based escalation workflows for unresolved queries  
+- Reduced manual support effort through automated ticket handling & reporting pipelines 
 
 ---
 
