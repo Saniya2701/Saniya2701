@@ -90,10 +90,12 @@ I focus on:
 
 ---
 
-#### 🔹 E-commerce Data Analysis
-- Analyzed customer and sales data using SQL & Python  
-- Performed data cleaning and transformation  
-- Extracted insights to improve business decisions  
+#### 🔹 HR Analytics - Employee Attrition Dashboard
+
+* Developed an interactive Power BI dashboard to analyze employee attrition and workforce demographics.
+* Created KPI cards, DAX measures, and interactive visualizations to uncover attrition trends.
+* Derived business insights and recommendations to support employee retention strategies.
+
 
 ---
 
